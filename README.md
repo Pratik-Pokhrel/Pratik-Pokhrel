@@ -1,4 +1,4 @@
-<# Hi, I'm Pratik 👋
+# Hi, I'm Pratik 👋
 
 Computer Engineering student at Kathmandu University interested in building things around AI/ML, full-stack development, and intelligent systems.
 
@@ -22,6 +22,6 @@ Tools I've used:
 
 
 ## Connect
-- LinkedIn: [Pratik Pokhrel LinkedIn](https://www.linkedin.com/in/pokhrel-pratik)
-- Instagram: [Instagram](https://www.instagram.com/pratik___pokhrel?igsh=MXhlb2NkdHd3ZWczZQ==)
-- Facebook: [Facebook](https://www.facebook.com/share/1CcNj1nRr7/)
+- LinkedIn: [Click Here](https://www.linkedin.com/in/pokhrel-pratik)
+- Instagram: [Click Here](https://www.instagram.com/pratik___pokhrel?igsh=MXhlb2NkdHd3ZWczZQ==)
+- Facebook: [Click Here](https://www.facebook.com/share/1CcNj1nRr7/)
