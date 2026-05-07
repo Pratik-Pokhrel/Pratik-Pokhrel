@@ -1,16 +1,27 @@
-## Hi there 👋
+<# Hi, I'm Pratik 👋
 
-<!--
-**Pratik-Pokhrel/Pratik-Pokhrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Kathmandu University interested in building things around AI/ML, full-stack development, and intelligent systems.
 
-Here are some ideas to get you started:
+Currently exploring:
+- Machine Learning & Deep Learning
+- Full-Stack Systems
+- System Architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A few things I've worked on:
+- Flood prediction & monitoring platform using deep learning
+- Multi-factor face authentication system
+- Social platforms with authentication & sentiment analysis
+- Blockchain-based trust and reputation system
+- Privacy-first wellness platform
+
+Tech Stack I've used:
+`Node` `JavaScript` `React` `Next.js` `Python` `FastAPI` `TensorFlow` `Scikit-learn` `PostgreSQL` `PyTorch`
+
+Tools I've used:
+`Docker` `Wireshark`
+
+
+## Connect
+- LinkedIn: [Pratik Pokhrel LinkedIn](https://www.linkedin.com/in/pokhrel-pratik)
+- Instagram: [Instagram](https://www.instagram.com/pratik___pokhrel?igsh=MXhlb2NkdHd3ZWczZQ==)
+- Facebook: [Facebook](https://www.facebook.com/share/1CcNj1nRr7/)
